@@ -1,0 +1,2 @@
+/Users/ducton7741/Documents/ducton7741/calculator_app/android/app/.cxx/RelWithDebInfo/162zg4g5/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ducton7741/Documents/ducton7741/calculator_app/android/app/.cxx/RelWithDebInfo/162zg4g5/arm64-v8a/CMakeFiles/rebuild_cache.dir

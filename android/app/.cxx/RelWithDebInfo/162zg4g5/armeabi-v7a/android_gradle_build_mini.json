@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ducton7741/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ducton7741/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ducton7741/Documents/ducton7741/calculator_app/android/app/.cxx/RelWithDebInfo/162zg4g5/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ducton7741/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ducton7741/Documents/ducton7741/calculator_app/android/app/.cxx/RelWithDebInfo/162zg4g5/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
